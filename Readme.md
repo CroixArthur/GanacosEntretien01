@@ -1,3 +1,5 @@
 # Ganacos internship request test 01
 
-A project to do in 60 minutes max to test my coding abilities
+This project consisted in verifying the contents of an filled sudoku board in the validity of its resolution.
+
+The project must be completed under 60 minutes in Java programming language.
